@@ -36,7 +36,20 @@ dataset/
 
 ## 📸 Screenshots
 
-Coming Soon...
+### 🏠 Home
+![Home](frontend/home.png)
+
+### 📊 Dashboard
+![Dashboard](frontend/dashboard.png)
+
+### 🔍 Scam Analyzer
+![Scam Analyzer](frontend/scam-analyzer.png)
+
+### 📡 Live Attack Statistics
+![Live Attack Statistics](frontend/live-attack-statistics.png)
+
+### 🛟 Victim Rescue
+![Victim Rescue](frontend/victim-rescue.png)
 
 ## 🎥 Demo
 
