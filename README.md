@@ -36,19 +36,22 @@ dataset/
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Home](frontend/home.png.png)
+![Home](frontend/home.png)
 
 ### 📊 Dashboard
-![Dashboard](frontend/dashboard.png.png)
+![Dashboard](frontend/dashboard.png)
 
 ### 🔍 Scam Analyzer
-![Scam Analyzer](frontend/scam-analyzer.png.png)
+![Scam Analyzer](frontend/scam-analyzer.png)
 
 ### 📈 Live Attack Statistics
 ![Live Attack Statistics](frontend/live-attack-stastics.png)
 
+### 📋 Security Logs
+![Security Logs](frontend/security-logs.png)
+
 ### 🛟 Victim Rescue
-![Victim Rescue](frontend/victim-rescue.png.png)
+![Victim Rescue](frontend/victim-rescue.png)
 
 ## 🎥 Demo
 
