@@ -33,23 +33,22 @@ backend/
 docs/
 dataset/
 ```
-
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Home](frontend/home.png)
+![Home](frontend/home.png.png)
 
 ### 📊 Dashboard
-![Dashboard](frontend/dashboard.png)
+![Dashboard](frontend/dashboard.png.png)
 
 ### 🔍 Scam Analyzer
-![Scam Analyzer](frontend/scam-analyzer.png)
+![Scam Analyzer](frontend/scam-analyzer.png.png)
 
 ### 📈 Live Attack Statistics
-![Live Attack Statistics](frontend/live-attack-statistics.png)
+![Live Attack Statistics](frontend/live-attack-statistics.png.png)
 
 ### 🛟 Victim Rescue
-![Victim Rescue](frontend/victim-rescue.png)
+![Victim Rescue](frontend/victim-rescue.png.png)
 
 ## 🎥 Demo
 
