@@ -45,7 +45,7 @@ dataset/
 ![Scam Analyzer](frontend/scam-analyzer.png.png)
 
 ### 📈 Live Attack Statistics
-![Live Attack Statistics](frontend/live-attack-statistics.png)
+![Live Attack Statistics](frontend/live-attack-stastics.png)
 
 ### 🛟 Victim Rescue
 ![Victim Rescue](frontend/victim-rescue.png.png)
