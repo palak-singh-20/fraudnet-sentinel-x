@@ -6,7 +6,7 @@
 
 Detect • Analyze • Prevent • Respond
 
-![Home](frontend/home.png)
+![Home](frontend/home.png.png)
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -176,45 +176,55 @@ fraudnet-sentinel-x/
 
 # 📸 Screenshots
 
-## 🏠 Home
-The landing page provides an overview of FraudNet Sentinel X with quick access to all cybersecurity modules.
+Explore the core modules of **FraudNet Sentinel X** through the following interface previews.
 
-![Home](frontend/home.png)
+---
+
+## 🏠 Home
+
+The landing page introduces the platform and provides quick access to all cybersecurity tools and AI-powered features.
+
+![Home](frontend/home.png.png)
 
 ---
 
 ## 📊 Dashboard
-A centralized dashboard displaying security metrics, threat summaries, and platform insights.
 
-![Dashboard](frontend/dashboard.png)
+A centralized security dashboard providing an overview of threats, analytics, system health, and key security metrics.
+
+![Dashboard](frontend/dashboard.png.png)
 
 ---
 
 ## 🔍 Scam Analyzer
-Analyze suspicious emails and messages using AI-powered threat detection and receive detailed risk assessments.
 
-![Scam Analyzer](frontend/scam-analyzer.png)
+Analyze suspicious emails and messages using AI-powered threat detection to identify phishing attempts and malicious content.
+
+![Scam Analyzer](frontend/scam-analyzer.png.png)
 
 ---
 
 ## 📈 Live Attack Statistics
-Monitor cyber attack trends and visualize threat activity through interactive analytics.
 
-![Live Attack Statistics](frontend/live-attack-stastics.png)
+Visualize cyber attack trends and monitor real-time threat activity through interactive analytics.
+
+![Live Attack Statistics](frontend/live-attack-stastics.png.png)
 
 ---
 
 ## 📋 Security Logs
-View and investigate recorded security events, alerts, and system activity for better incident analysis.
 
-![Security Logs](frontend/security-logs.png)
+Review recorded security events, alerts, and system logs for efficient incident investigation and monitoring.
+
+![Security Logs](frontend/security-logs.png.png)
 
 ---
 
 ## 🛟 Victim Rescue
-Receive AI-generated recovery guidance, safety recommendations, and immediate actions after a cyber incident.
 
-![Victim Rescue](frontend/victim-rescue.png)
+Receive AI-generated recovery guidance, security recommendations, and immediate response actions after a cyber incident.
+
+![Victim Rescue](frontend/victim-rescue.png.png)
 
 # ⚙ Installation
 
