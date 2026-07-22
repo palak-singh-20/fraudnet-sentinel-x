@@ -177,40 +177,44 @@ fraudnet-sentinel-x/
 # 📸 Screenshots
 
 ## 🏠 Home
+The landing page provides an overview of FraudNet Sentinel X with quick access to all cybersecurity modules.
 
 ![Home](frontend/home.png)
 
 ---
 
 ## 📊 Dashboard
+A centralized dashboard displaying security metrics, threat summaries, and platform insights.
 
 ![Dashboard](frontend/dashboard.png)
 
 ---
 
 ## 🔍 Scam Analyzer
+Analyze suspicious emails and messages using AI-powered threat detection and receive detailed risk assessments.
 
 ![Scam Analyzer](frontend/scam-analyzer.png)
 
 ---
 
 ## 📈 Live Attack Statistics
+Monitor cyber attack trends and visualize threat activity through interactive analytics.
 
 ![Live Attack Statistics](frontend/live-attack-stastics.png)
 
 ---
 
 ## 📋 Security Logs
+View and investigate recorded security events, alerts, and system activity for better incident analysis.
 
 ![Security Logs](frontend/security-logs.png)
 
 ---
 
 ## 🛟 Victim Rescue
+Receive AI-generated recovery guidance, safety recommendations, and immediate actions after a cyber incident.
 
 ![Victim Rescue](frontend/victim-rescue.png)
-
----
 
 # ⚙ Installation
 
