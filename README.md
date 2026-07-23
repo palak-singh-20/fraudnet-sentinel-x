@@ -312,16 +312,6 @@ http://localhost:5173
 
 ---
 
-# 🎥 Demo Video
-
-Demo Link:
-
-```
-(Add your Google Drive or YouTube link here)
-```
-
----
-
 # 🏆 Hackathon
 
 Developed for:
